@@ -106,7 +106,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## 👤 Contact
 
-Mico Lasola - micolasola79@gmail.com
+**Mico Lasola** – micolasola79@gmail.com  
 📌 [Visit My Portfolio](https://micolasola.vercel.app)
 
 ---
