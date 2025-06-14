@@ -108,5 +108,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 Mico Lasola - micolasola79@gmail.com
 📌 [Visit My Portfolio](https://micolasola.vercel.app)
+
 ---
 ⭐️ From Mico Lasola - Passionate about Web & Mobile Dev, soon-to-be Pilot 😉
