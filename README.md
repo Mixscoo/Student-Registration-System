@@ -94,7 +94,7 @@ This project was developed as a school project to showcase:
 
 ## 📦 Download
 
-The downloadable file will be available in the releases section of this repository.
+🔗 [Download](https://github.com/Mixscoo/Student-Registration-System/releases/tag/v1.0)
 
 ## 🤝 Contributing
 
