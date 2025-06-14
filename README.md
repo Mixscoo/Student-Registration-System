@@ -109,4 +109,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 Mico Lasola - micolasola79@gmail.com
 
 ---
-⭐️ From Mico Lasola 
+⭐️ From Mico Lasola - Passionate about Web & Mobile Dev, soon-to-be Pilot 😉
