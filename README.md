@@ -62,7 +62,7 @@ A comprehensive record-keeping system for managing student information with a mo
 
 1. Clone the repository
 ```bash
-git clone [your-repository-url]
+git clone https://github.com/Mixscoo/Student-Registration-System.git
 ```
 
 2. Open the project in NetBeans IDE
@@ -107,7 +107,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## 👤 Contact
 
 Mico Lasola - micolasola79@gmail.com
-Project Link: [https://github.com/yourusername/your-repo-name](https://github.com/yourusername/your-repo-name)
 
 ---
 ⭐️ From Mico Lasola 
