@@ -77,7 +77,7 @@ git clone https://github.com/Mixscoo/Student-Registration-System.git
 
 ## 📸 Demo
 
-Check out the live demo and screenshots: [View Demo](https://micolasola.vercel.app/project/1)
+Check out the live demo and screenshots: <a href="https://micolasola.vercel.app/project/1" target="_blank" rel="noopener noreferrer">View Demo</a>
 
 ## 👨‍💻 My Role
 
